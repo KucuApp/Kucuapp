@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719738833061",
+    "firebase_url": "https://kucuapp-d92bb.firebaseio.com",
+    "project_id": "kucuapp-d92bb",
+    "storage_bucket": "kucuapp-d92bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719738833061:android:aabaa3c501ecc0f0",
+        "android_client_info": {
+          "package_name": "com.fidelomolokucu.kucuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719738833061-rbd0heg49cbkjre56cfaj3di25sj7768.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fidelomolokucu.kucuapp",
+            "certificate_hash": "0850520deeb2de051d3a1f563fcc5ff18c2cbd0c"
+          }
+        },
+        {
+          "client_id": "719738833061-or731he87gcosafh8nmd99g9k3oet0h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUPuirTxuW7Lx5Ppv4cUfk33qF1QrLbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719738833061-or731he87gcosafh8nmd99g9k3oet0h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
